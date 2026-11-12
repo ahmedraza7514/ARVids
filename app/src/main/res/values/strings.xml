@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AR-Vids</string>
+    <string name="tab_downloader">Downloader</string>
+    <string name="tab_downloads">My Downloads</string>
+    <string name="tab_how_to">Guide</string>
+    <string name="tab_settings">Settings</string>
+    <string name="paste_url">Paste Video Link</string>
+    <string name="download">Download</string>
+    <string name="refresh">Refresh</string>
+    <string name="clear_cache">Clear Cache</string>
+</resources>

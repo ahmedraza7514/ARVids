@@ -1,0 +1,6 @@
+{
+  "name": "AR-Vids",
+  "description": "Clean, ad-free social media video downloader and offline media manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
